@@ -1,2 +1,2 @@
 # Data-sturcture
-Some data structure written by myself
+Some simple data structure written by myself
